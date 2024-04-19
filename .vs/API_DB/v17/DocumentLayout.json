@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Professor\\Desktop\\API Samples\\API_DB\\API_DB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C641A660-88FB-4D0E-9493-E363BC1A5A26}|API_DB\\API_DB.csproj|c:\\users\\professor\\desktop\\api samples\\api_db\\api_db\\api_db\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C641A660-88FB-4D0E-9493-E363BC1A5A26}|API_DB\\API_DB.csproj|solutionrelative:api_db\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C641A660-88FB-4D0E-9493-E363BC1A5A26}|API_DB\\API_DB.csproj|c:\\users\\professor\\desktop\\api samples\\api_db\\api_db\\api_db\\models\\data\\alunodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C641A660-88FB-4D0E-9493-E363BC1A5A26}|API_DB\\API_DB.csproj|solutionrelative:api_db\\models\\data\\alunodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C641A660-88FB-4D0E-9493-E363BC1A5A26}|API_DB\\API_DB.csproj|c:\\users\\professor\\desktop\\api samples\\api_db\\api_db\\api_db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C641A660-88FB-4D0E-9493-E363BC1A5A26}|API_DB\\API_DB.csproj|solutionrelative:api_db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C641A660-88FB-4D0E-9493-E363BC1A5A26}|API_DB\\API_DB.csproj|c:\\users\\professor\\desktop\\api samples\\api_db\\api_db\\api_db\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C641A660-88FB-4D0E-9493-E363BC1A5A26}|API_DB\\API_DB.csproj|solutionrelative:api_db\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C641A660-88FB-4D0E-9493-E363BC1A5A26}|API_DB\\API_DB.csproj|c:\\users\\professor\\desktop\\api samples\\api_db\\api_db\\api_db\\models\\data\\conexaosql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C641A660-88FB-4D0E-9493-E363BC1A5A26}|API_DB\\API_DB.csproj|solutionrelative:api_db\\models\\data\\conexaosql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C641A660-88FB-4D0E-9493-E363BC1A5A26}|API_DB\\API_DB.csproj|c:\\users\\professor\\desktop\\api samples\\api_db\\api_db\\api_db\\models\\data\\iconexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C641A660-88FB-4D0E-9493-E363BC1A5A26}|API_DB\\API_DB.csproj|solutionrelative:api_db\\models\\data\\iconexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C641A660-88FB-4D0E-9493-E363BC1A5A26}|API_DB\\API_DB.csproj|c:\\users\\professor\\desktop\\api samples\\api_db\\api_db\\api_db\\models\\viewmodels\\alunoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C641A660-88FB-4D0E-9493-E363BC1A5A26}|API_DB\\API_DB.csproj|solutionrelative:api_db\\models\\viewmodels\\alunoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C641A660-88FB-4D0E-9493-E363BC1A5A26}|API_DB\\API_DB.csproj|c:\\users\\professor\\desktop\\api samples\\api_db\\api_db\\api_db\\models\\inputmodels\\alunoinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C641A660-88FB-4D0E-9493-E363BC1A5A26}|API_DB\\API_DB.csproj|solutionrelative:api_db\\models\\inputmodels\\alunoinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\API Samples\\API_DB\\API_DB\\API_DB\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "API_DB\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\Professor\\Desktop\\API Samples\\API_DB\\API_DB\\API_DB\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "API_DB\\Controllers\\AlunoController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAqwGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:18:58.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\API Samples\\API_DB\\API_DB\\API_DB\\Program.cs",
+              "RelativeDocumentMoniker": "API_DB\\Program.cs",
+              "ToolTip": "C:\\Users\\Professor\\Desktop\\API Samples\\API_DB\\API_DB\\API_DB\\Program.cs",
+              "RelativeToolTip": "API_DB\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:48:45.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\API Samples\\API_DB\\API_DB\\API_DB\\appsettings.json",
+              "RelativeDocumentMoniker": "API_DB\\appsettings.json",
+              "ToolTip": "C:\\Users\\Professor\\Desktop\\API Samples\\API_DB\\API_DB\\API_DB\\appsettings.json",
+              "RelativeToolTip": "API_DB\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T17:06:54.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlunoDB.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\API Samples\\API_DB\\API_DB\\API_DB\\Models\\Data\\AlunoDB.cs",
+              "RelativeDocumentMoniker": "API_DB\\Models\\Data\\AlunoDB.cs",
+              "ToolTip": "C:\\Users\\Professor\\Desktop\\API Samples\\API_DB\\API_DB\\API_DB\\Models\\Data\\AlunoDB.cs",
+              "RelativeToolTip": "API_DB\\Models\\Data\\AlunoDB.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwB4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:02:17.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConexaoSql.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\API Samples\\API_DB\\API_DB\\API_DB\\Models\\Data\\ConexaoSql.cs",
+              "RelativeDocumentMoniker": "API_DB\\Models\\Data\\ConexaoSql.cs",
+              "ToolTip": "C:\\Users\\Professor\\Desktop\\API Samples\\API_DB\\API_DB\\API_DB\\Models\\Data\\ConexaoSql.cs",
+              "RelativeToolTip": "API_DB\\Models\\Data\\ConexaoSql.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T16:38:55.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IConexao.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\API Samples\\API_DB\\API_DB\\API_DB\\Models\\Data\\IConexao.cs",
+              "RelativeDocumentMoniker": "API_DB\\Models\\Data\\IConexao.cs",
+              "ToolTip": "C:\\Users\\Professor\\Desktop\\API Samples\\API_DB\\API_DB\\API_DB\\Models\\Data\\IConexao.cs",
+              "RelativeToolTip": "API_DB\\Models\\Data\\IConexao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T16:32:25.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlunoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\API Samples\\API_DB\\API_DB\\API_DB\\Models\\ViewModels\\AlunoViewModel.cs",
+              "RelativeDocumentMoniker": "API_DB\\Models\\ViewModels\\AlunoViewModel.cs",
+              "ToolTip": "C:\\Users\\Professor\\Desktop\\API Samples\\API_DB\\API_DB\\API_DB\\Models\\ViewModels\\AlunoViewModel.cs",
+              "RelativeToolTip": "API_DB\\Models\\ViewModels\\AlunoViewModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T16:25:29.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlunoInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\API Samples\\API_DB\\API_DB\\API_DB\\Models\\InputModels\\AlunoInputModel.cs",
+              "RelativeDocumentMoniker": "API_DB\\Models\\InputModels\\AlunoInputModel.cs",
+              "ToolTip": "C:\\Users\\Professor\\Desktop\\API Samples\\API_DB\\API_DB\\API_DB\\Models\\InputModels\\AlunoInputModel.cs",
+              "RelativeToolTip": "API_DB\\Models\\InputModels\\AlunoInputModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T16:22:47.12Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
